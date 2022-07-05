@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UTAP Power Board.PrjPcb]
+   Generated File[powerboardv2.TXT]
+   Generated File[powerboardv2.LDP]
+   Generated File[powerboardv2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:10:48 AM On 7/30/2021

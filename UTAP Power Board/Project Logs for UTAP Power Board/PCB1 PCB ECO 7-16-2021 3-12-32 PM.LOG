@@ -1,0 +1,49 @@
+Added Component: Designator=camera(KYCON_KPJX-4S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KPJX-4S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-20 Kycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KPJX-4S/Kycon/view-part/555404/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=fuse(BK-6007-Footprint-1)
+Added Component: Designator=LEDSwicth(MS12ASW30-Footprint-1)
+Added Component: Designator=MainSwitch(MS12ASW30-Footprint-1)
+Added Component: Designator=Molex(0010845021-Footprint-1)
+Added Component: Designator=screen(KYCON_KPJX-4S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KPJX-4S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-20 Kycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KPJX-4S/Kycon/view-part/555404/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=spade+(keystone 3546-Footprint-1)
+Added Component: Designator=spade-(keystone 3546-Footprint-1)
+Added Pin To Net: NetName=GND Pin=camera-1
+Added Pin To Net: NetName=VCC Pin=camera-2
+Added Pin To Net: NetName=Netcamera_3 Pin=camera-3
+Added Pin To Net: NetName=Netcamera_4 Pin=camera-4
+Added Pin To Net: NetName=+12 Pin=fuse-1
+Added Pin To Net: NetName=VCC Pin=fuse-2
+Added Pin To Net: NetName=Netcamera_4 Pin=LEDSwicth-1
+Added Pin To Net: NetName=VCC Pin=LEDSwicth-2
+Added Pin To Net: NetName=VCC Pin=MainSwitch-1
+Added Pin To Net: NetName=NetMainSwitch_2 Pin=MainSwitch-2
+Added Pin To Net: NetName=+12 Pin=Molex-1
+Added Pin To Net: NetName=GND Pin=Molex-2
+Added Pin To Net: NetName=GND Pin=screen-1
+Added Pin To Net: NetName=VCC Pin=screen-2
+Added Pin To Net: NetName=Netcamera_3 Pin=screen-3
+Added Pin To Net: NetName=Netscreen_4 Pin=screen-4
+Added Pin To Net: NetName=NetMainSwitch_2 Pin=spade+-1
+Added Pin To Net: NetName=GND Pin=spade--1
+Added Member To Class: ClassName=PCB1 Member=Component camera KPJX-4S
+Added Member To Class: ClassName=PCB1 Member=Component fuse BK-6007
+Added Member To Class: ClassName=PCB1 Member=Component LEDSwicth MS12ASW30
+Added Member To Class: ClassName=PCB1 Member=Component MainSwitch MS12ASW30
+Added Member To Class: ClassName=PCB1 Member=Component Molex 0010845021
+Added Member To Class: ClassName=PCB1 Member=Component screen KPJX-4S
+Added Member To Class: ClassName=PCB1 Member=Component spade+ keystone 3546
+Added Member To Class: ClassName=PCB1 Member=Component spade- keystone 3546
+Added Room: Name=PCB1
